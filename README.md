@@ -1,2 +1,2 @@
-# Acoustic-echo-cancellation
-This project is about the comparison between different adaptive algorithms usages in acoustic echo cancellation. 
+# Adaptive-noise-cancellation
+AEC using adaptive filters in MATLAB &amp; C++
